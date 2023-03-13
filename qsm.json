@@ -58,5 +58,5 @@
       "Q":"How can you load an image from the internet in Flutter?",
       "list":["By using the Image.asset()","By using the Image.network()","By using the Image.file()","By using the Image.memory()"],
       "r":"By using the Image.network()"
-   },
+   }
 ]
