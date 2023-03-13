@@ -43,7 +43,7 @@
    },
    {
       "num":"Question 8",
-      "Q":"What is the syntax for using `setState()` ",
+      "Q":"What is the syntax for using setState() ",
       "list":["setState() { ... }","setState(() { ... });","setState = { ... };","setState(() { ... })"],
       "r":"setState(() { ... });"
    },
