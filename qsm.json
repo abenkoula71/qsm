@@ -1,9 +1,62 @@
 [
-{
-   "num":"Question 1",
-"Q":"colum using in ",
-"list":["vartical","horizontal","vartical and horizontal"],
-"r":"vartical"
-
-}
+   {
+      "num":"Question 1",
+      "Q":"Flutter uses Dart as its programming language.",
+      "list":["True","False"],
+      "r":"True"
+   },
+   {
+      "num":"Question 2",
+      "Q":"Flutter is an open-source UI development kit created by Apple",
+      "list":["True","False"],
+      "r":"False"
+   },
+   {
+      "num":"Question 3",
+      "Q":"The initState() method in a StatefulWidget is called every time the widget is updated.",
+      "list":["True","False"],
+      "r":"False"
+   },
+   {
+      "num":"Question 4",
+      "Q":"The Flutter row widget displays its child elements vertically.",
+      "list":["True","False"],
+      "r":"False"
+   },
+   {
+      "num":"Question 5",
+      "Q":"Flutter supports desktop application development.",
+      "list":["True","False"],
+      "r":"True"
+   },
+   {
+      "num":"Question 6",
+      "Q":"Which programming language is used to build Flutter applications.",
+      "list":["Kotlin","Java",'Go','Dart'],
+      "r":"Dart"
+   },
+   {
+      "num":"Question 7",
+      "Q":"The Flutter colum widget displays its child elements ____ .",
+      "list":["vertically","horizontal"],
+      "r":"vertically"
+   },
+   {
+      "num":"Question 8",
+      "Q":"What is the syntax for using `setState()` ",
+      "list":["setState() { ... }","setState(() { ... });","setState = { ... };","setState(() { ... })"],
+      "r":"setState(() { ... });"
+   },
+   {
+      "num":"Question 9",
+      "Q":"What is a Container ?",
+      "list":["A widget used to display text","A widget used to display images","A widget used to lay out other widgets.","A widget used to draw custom shapes."],
+      "r":"A widget used to lay out other widgets."
+   },
+   {
+      "num":"Question 10",
+      "Q":"How can you load an image from the internet in Flutter?",
+      "list":["By using the Image.asset()","By using the Image.network()","By using the Image.file()","By using the Image.memory()"],
+      "r":"By using the Image.network()"
+   },
 ]
