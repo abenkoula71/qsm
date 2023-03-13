@@ -32,7 +32,7 @@
    {
       "num":"Question 6",
       "Q":"Which programming language is used to build Flutter applications.",
-      "list":["Kotlin","Java",'Go','Dart'],
+      "list":["Kotlin","Java","Go","Dart"],
       "r":"Dart"
    },
    {
