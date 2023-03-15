@@ -37,7 +37,7 @@
    },
    {
       "num":"Question 7",
-      "Q":"The Flutter colum widget displays its child elements ____ .",
+      "Q":"The Flutter column widget displays its child elements ____ .",
       "list":["vertically","horizontal"],
       "r":"vertically"
    },
